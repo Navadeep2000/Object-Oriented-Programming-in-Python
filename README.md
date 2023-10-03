@@ -5,7 +5,7 @@
 Welcome to the Python OOP Basics repository! In this guide, I will introduce you to Object-Oriented Programming in Python with a focus on the fundamentals. 🎓
 
 ## Table of Contents 📋
-- [Basic OOP Declarations in Python ](#Basic-OOP-Declarations-in-Python )
+- [Basic OOP Declarations in Python ](#[Basic-OOP-Declarations-in-Python](https://github.com/Navadeep2000/Object-Oriented-Programming-in-Python/blob/main/Basic-OOP-Declarations-in-Python.ipynb) )
 - [Class Methods and Static Methods]
 - 
 
